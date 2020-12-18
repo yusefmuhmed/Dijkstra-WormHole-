@@ -1,4 +1,4 @@
-#problem
+# problem
 The inhabitants of a far off star system have developed a transportation system between their planets. There are n planets in the system. Some planets have a wormhole between them, which allows you to travel between planet i to planet j in ti; j seconds. All times ti; j are positive (you can’t travel back in time). Some pairs of planets may not have a wormhole between them.
 You are currently at planet 0 and wish to reach planet n􀀀1. However, your ship’s navigation commands are starting to malfunction. 
 When you are at a planet and tell the ship to go through a certain wormhole, it may misinterpret the command and instead choose a completely random outgoing wormhole instead. 
